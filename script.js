@@ -12,7 +12,7 @@ const adminPassword = "Admin123";
 // YOUR DASHBOARD LINK
 
 const dashboardURL =
-    "https://danielfl15.github.io/loveluxe_dashboard/";
+    "https://danielrf15.github.io/loveluxe_dashboard/";
 
 
 // LOGIN FUNCTION
